@@ -1,7 +1,4 @@
-'''
-Created on Nov 27, 2016
 
-@author: sneha bangar
 '''
 import pandas as pd
 import review
